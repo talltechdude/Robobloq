@@ -31,7 +31,7 @@
 
 
 #include "RB_QMIND_PLUS.h"
-
+#include "Firmware_for_Qmind_Plus.h"
 
 
   uint8_t     Work_Mode      = 0;
